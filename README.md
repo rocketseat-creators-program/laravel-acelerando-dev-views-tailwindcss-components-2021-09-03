@@ -2,7 +2,7 @@
 
 # Laravel - Acelerando o desenvolvimento das suas views com Components e Tailwind CSS
 
-Opa, e ai?! í¸Ší±
+Opa, e ai?! 
 
 E ai galera? Nessa aula vamos aprender como utilizar os Components do Laravel juntamente com o Tailwind CSS para acelerar o desenvolvimento de novas views. Entraremos um pouco mais a fundo de que tipo de variaÃ§Ãµes vocÃªs podem criar em cada componentes para que vocÃª tenha por exemplo 1 componente com vÃ¡rios estilos / tipos.
 
