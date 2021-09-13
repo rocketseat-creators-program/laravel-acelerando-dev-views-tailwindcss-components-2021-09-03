@@ -32,7 +32,7 @@ php artisan serve
 
 ## Links úteis
 
-* [Tailwind CSS](* [Laravel - Components](https://laravel.com/docs/8.x/blade#components)
+* [Tailwind CSS](Laravel - Components](https://laravel.com/docs/8.x/blade#components)
 * [Laravel - Components](https://laravel.com/docs/8.x/blade#components)
 * [Laravel: Blade Components 101](https://dev.to/ericchapman/laravel-blade-components-5c9c)
 * [Using Laravel View Components](https://beyondco.de/blog/using-laravel-view-components)
